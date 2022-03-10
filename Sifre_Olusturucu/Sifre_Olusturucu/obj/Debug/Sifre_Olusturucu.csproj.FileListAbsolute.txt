@@ -1,0 +1,10 @@
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\bin\Debug\Sifre_Olusturucu.exe.config
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\bin\Debug\Sifre_Olusturucu.exe
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\bin\Debug\Sifre_Olusturucu.pdb
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.csproj.AssemblyReference.cache
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.Form1.resources
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.Properties.Resources.resources
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.csproj.GenerateResource.cache
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.csproj.CoreCompileInputs.cache
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.exe
+C:\Users\1gamz\source\repos\Sifre_Olusturucu\Sifre_Olusturucu\obj\Debug\Sifre_Olusturucu.pdb
